@@ -6,14 +6,14 @@
 
 # machine learning
 
-  * Supervised Learning
-   *Regression
+  ## Supervised Learning
+   * Regression
    
-   *Classification
+   * Classification
    
-  * Unsupervised Learning
-  * Semi-supervised Learning
-  * Reinforcement Learning
+  ## Unsupervised Learning
+  ## Semi-supervised Learning
+  ## Reinforcement Learning
   
   
 
