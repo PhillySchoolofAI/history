@@ -7,6 +7,10 @@
 # machine learning
 
   * Supervised Learning
+   *Regression
+   
+   *Classification
+   
   * Unsupervised Learning
   * Semi-supervised Learning
   * Reinforcement Learning
