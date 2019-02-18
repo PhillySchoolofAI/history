@@ -1,6 +1,6 @@
-[Timeline of Artificial Intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence#1901–1950)
+(A Logical Calculus of the Ideas Immanent in Nervous Activity)[http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf]
 
-[Artificial Intelligence and Robotics](https://arxiv.org/pdf/1803.10813.pdf)
+[Learning representations by back-propogating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 
 # cybernetics
 
