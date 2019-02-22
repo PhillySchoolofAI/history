@@ -2,6 +2,8 @@
 
 * [A Logical Calculus of the Ideas Immanent in Nervous Activity](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
 
+* [The Logic Theory Machine; A Complex Information Processing System](http://shelf1.library.cmu.edu/IMLS/MindModels/logictheorymachine.pdf)
+
 * [Learning representations by back-propogating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 
 * [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
