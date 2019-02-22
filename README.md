@@ -4,6 +4,8 @@
 
 * [The Logic Theory Machine; A Complex Information Processing System](http://shelf1.library.cmu.edu/IMLS/MindModels/logictheorymachine.pdf)
 
+* [The Logic Theory Machine: A Model Heuristic Program](https://history-computer.com/Library/Logic%20Theorist%20memorandum.pdf)
+
 * [Learning representations by back-propogating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 
 * [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
