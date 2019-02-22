@@ -24,6 +24,8 @@
 # cybernetics
 * Norbert Wiener
 
+https://medium.com/@jankrikkeChina/cybernetics-explains-what-ai-is-and-what-it-isnt-13b2baec6cca
+
 # machine learning
 
   ## Supervised Learning
