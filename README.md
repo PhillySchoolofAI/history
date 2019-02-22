@@ -4,6 +4,10 @@
 
 * [Learning representations by back-propogating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 
+* [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+
+
+
 # cybernetics
 * Norbert Wiener
 
