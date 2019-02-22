@@ -20,23 +20,11 @@
 
 * [Large-scale Video Classification with Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 
-
 # cybernetics
 * Norbert Wiener
 
 https://medium.com/@jankrikkeChina/cybernetics-explains-what-ai-is-and-what-it-isnt-13b2baec6cca
 
 # machine learning
-
-  ## Supervised Learning
-   * Regression
-   
-   * Classification
-   
-  ## Unsupervised Learning
-  ## Semi-supervised Learning
-  ## Reinforcement Learning
-  
-  
 
 # deep learning
