@@ -26,6 +26,10 @@
 
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
 
+* [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285v1)
+
+* [https://www.matthewzeiler.com/mattzeiler/deconvolutionalnetworks.pdf](Deconvolutional Networks)
+
 # cybernetics
 * Norbert Wiener
 
