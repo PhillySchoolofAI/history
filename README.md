@@ -22,6 +22,8 @@
 
 * [Large-scale Video Classification with Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 
+* [Efficient Object Localization Using Convolutional Networks](https://arxiv.org/abs/1411.4280)
+
 # cybernetics
 * Norbert Wiener
 
