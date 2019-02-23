@@ -30,6 +30,14 @@
 
 * [Deconvolutional Networks](https://www.matthewzeiler.com/mattzeiler/deconvolutionalnetworks.pdf)
 
+* [Long Short Term Memory](http://www.bioinf.jku.at/publications/older/2604.pdf)
+
+* [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/preprint.pdf)
+
+* [A Theoretically Grounded Application of Dropout in Recurrent Neural Networks](https://arxiv.org/abs/1512.05287)
+
+* [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/abs/1506.04214v1)
+
 # cybernetics
 * Norbert Wiener
 
