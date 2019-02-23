@@ -24,6 +24,8 @@
 
 * [Efficient Object Localization Using Convolutional Networks](https://arxiv.org/abs/1411.4280)
 
+* [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
+
 # cybernetics
 * Norbert Wiener
 
