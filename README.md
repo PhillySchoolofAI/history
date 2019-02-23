@@ -28,7 +28,7 @@
 
 * [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285v1)
 
-* [https://www.matthewzeiler.com/mattzeiler/deconvolutionalnetworks.pdf](Deconvolutional Networks)
+* [Deconvolutional Networks](https://www.matthewzeiler.com/mattzeiler/deconvolutionalnetworks.pdf)
 
 # cybernetics
 * Norbert Wiener
