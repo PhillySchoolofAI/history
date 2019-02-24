@@ -44,6 +44,14 @@
 
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 
+* [Zero-bias autoencoders and the benefits of co-adapting features](https://arxiv.org/abs/1402.3337)
+
+* [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](https://arxiv.org/abs/1511.07289v1)
+
+* [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852)
+
+* [Rectifier Nonlinearities Improve Neural Network Acoustic Models](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
+
 # cybernetics
 * Norbert Wiener
 
