@@ -68,6 +68,28 @@
 
 * [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 
+* [Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
+
+* [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)
+
+* [Deep Residual Learning for Image Recognition](Deep Residual Learning for Image Recognition)
+
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+
+* [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
+
+* [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
+
+* [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+
+* [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
+
+* [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261)
+
+* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+
+* [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
+
 # cybernetics
 * Norbert Wiener
 
