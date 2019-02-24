@@ -56,6 +56,18 @@
 
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781v3.pdf)
 
+* [On the importance of initialization and momentum in deep learning](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
+
+* [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf)
+
+* [On the Convergence of Adam and Beyond](https://openreview.net/forum?id=ryQu7f-RZ)
+
+* [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980v8)
+
+* [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701)
+
+* [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+
 # cybernetics
 * Norbert Wiener
 
