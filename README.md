@@ -52,6 +52,8 @@
 
 * [Rectifier Nonlinearities Improve Neural Network Acoustic Models](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
 
+* [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
+
 # cybernetics
 * Norbert Wiener
 
