@@ -54,6 +54,8 @@
 
 * [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
 
+* [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781v3.pdf)
+
 # cybernetics
 * Norbert Wiener
 
