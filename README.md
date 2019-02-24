@@ -92,9 +92,17 @@
 
 * [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 
-* [􏰚􏰛􏰘􏰙􏰖􏰗􏰔􏰕􏰒􏰓􏰃􏰑􏰏􏰐􏰍􏰎􏰋􏰌􏰉􏰊􏰇􏰈􏰅􏰆􏰃􏰄􏰁􏰂􏰀􏰚􏰛􏰘􏰙􏰖􏰗􏰔􏰕􏰒􏰓􏰃􏰑􏰏􏰐􏰍􏰎􏰋􏰌􏰉􏰊􏰇􏰈􏰅􏰆􏰃􏰄􏰁􏰂􏰀􏰚􏰛􏰘􏰙􏰖􏰗􏰔􏰕􏰒􏰓􏰃􏰑􏰏􏰐􏰍􏰎􏰋􏰌􏰉􏰊􏰇􏰈􏰅􏰆􏰃􏰄􏰁􏰂􏰀Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+* [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 * [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](https://arxiv.org/abs/1312.6120)
+
+* [Learning to Execute](https://arxiv.org/abs/1312.6120)
+
+* [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
+* [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](https://arxiv.org/abs/1502.05698)
+
+* [End-To-End Memory Networks](https://arxiv.org/abs/1503.08895)
 
 # cybernetics
 * Norbert Wiener
