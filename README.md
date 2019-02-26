@@ -104,6 +104,8 @@
 
 * [End-To-End Memory Networks](https://arxiv.org/abs/1503.08895)
 
+* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)
+
 # cybernetics
 * Norbert Wiener
 
