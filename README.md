@@ -106,6 +106,8 @@
 
 * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)
 
+* [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
+
 # cybernetics
 * Norbert Wiener
 
