@@ -108,6 +108,10 @@
 
 * [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
 
+* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+
+* [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+
 # cybernetics
 * Norbert Wiener
 
