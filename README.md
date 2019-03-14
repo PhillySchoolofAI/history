@@ -1,5 +1,7 @@
 # Notable Papers:
 
+(there is a lot here, I will try to organize as I am familar with all papers listed below)
+
 * [A Logical Calculus of the Ideas Immanent in Nervous Activity](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
 
 * [The Logic Theory Machine; A Complex Information Processing System](http://shelf1.library.cmu.edu/IMLS/MindModels/logictheorymachine.pdf)
