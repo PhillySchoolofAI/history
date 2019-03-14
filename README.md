@@ -112,11 +112,16 @@
 
 * [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
 
-# cybernetics
+
+# Notable Figures:
+
 * Norbert Wiener
+
+* Marvin Minsky
+
+* Richard Wallace
+
+# cybernetics
 
 https://medium.com/@jankrikkeChina/cybernetics-explains-what-ai-is-and-what-it-isnt-13b2baec6cca
 
-# machine learning
-
-# deep learning
